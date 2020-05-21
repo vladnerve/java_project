@@ -26,7 +26,7 @@ public class Calculator {
 	}
 	
 	public void cleanResult() {
-		this.result = 0
+		this.result = 0;
 	}
 	
 }
